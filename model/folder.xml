@@ -2,4 +2,15 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Testing2Specialization"
     id="id-d480817684f94cd7b2b477ff5b94d100"
-    version="4.9.0"/>
+    version="4.9.0">
+  <profiles
+      name="Linux"
+      id="id-bb21d3fb83f146d5a71c8700e9b52cb0"
+      imagePath="images/_Qs-NEDM-EeyDfrl8QokmHg.png"
+      conceptType="Node"/>
+  <profiles
+      name="Windows 2019"
+      id="id-8d8bbecbe91a476f87bc65b37ef31fbb"
+      imagePath="images/_UxImEDM-EeyDfrl8QokmHg.png"
+      conceptType="Node"/>
+</archimate:ArchimateModel>
